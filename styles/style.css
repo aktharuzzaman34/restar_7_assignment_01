@@ -128,7 +128,7 @@ p {
 }
 
 .hot-deal {
-    background-color: #e4b6c0;
+    background-color: rgb(243, 226, 228);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -137,12 +137,17 @@ p {
 }
 
 .sale-up {
-    padding-left: 120px;
+    padding-left: 150px;
+    text-align: center;
+}
+
+.sale-up p {
+    text-align: center;
 }
 
 .flower-jar {
     width: 20%;
-    padding-right: 120px;
+    padding-right: 140px;
 }
 
 .flowers-catagory {
