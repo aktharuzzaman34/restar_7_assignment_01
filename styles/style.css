@@ -76,6 +76,7 @@ p {
 .blssed-text {
     text-align: center;
     padding-right: 90px;
+    text-decoration: underline solid 1px black;
 }
 
 .red-velvet {
@@ -91,6 +92,7 @@ p {
     text-align: center;
     padding-top: 50px;
     padding-right: 120px;
+    text-decoration: underline solid 1px black;
 }
 
 .breezy {
@@ -104,6 +106,7 @@ p {
 .breezy-text {
     text-align: center;
     padding-right: 70px;
+    text-decoration: underline solid 1px black;
 }
 
 .shop-by {
