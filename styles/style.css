@@ -38,3 +38,69 @@ p {
     justify-content: space-between;
     align-items: center;
 }
+
+.wedding {
+    margin-top: 80px;
+}
+
+.wedding-h1 {
+    text-align: center;
+}
+
+.wedding p {
+    text-align: center;
+}
+
+.flowers-tree {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 150px;
+}
+
+.flowers-tree img {
+    width: 60%;
+}
+
+.blssed-ride {
+    background-color: #f5cee1;
+    /* padding: 30px; */
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    border-radius: 90px;
+}
+
+.blssed-text {
+    text-align: center;
+    padding-right: 90px;
+}
+
+.red-velvet {
+    background-color: #bfe7e9;
+    /* padding: 30px; */
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    border-radius: 90px;
+}
+
+.velvet-text {
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 120px;
+}
+
+.breezy {
+    background-color: #c2e79d;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    border-radius: 90px;
+}
+
+.breezy-text {
+    text-align: center;
+    padding-right: 70px;
+}
