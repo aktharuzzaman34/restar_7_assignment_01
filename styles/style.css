@@ -125,3 +125,21 @@ p {
 .support {
     padding-left: 25px;
 }
+
+.hot-deal {
+    background-color: #e4b6c0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.sale-up {
+    padding-left: 120px;
+}
+
+.flower-jar {
+    width: 20%;
+    padding-right: 120px;
+}
