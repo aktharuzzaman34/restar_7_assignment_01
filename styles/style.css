@@ -15,7 +15,7 @@ p {
     background-color: #E55473;
     padding: 10px 20px;
     color: rgb(255, 255, 255);
-    font-weight: 700;
+    font-weight: 400;
     border-radius: 5px;
     margin-bottom: 200px;
 }
@@ -197,6 +197,22 @@ p {
     padding-right: 50px;
     border: solid 1px rgb(114, 113, 113);
     border-radius: 8px;
+}
+
+.services {
+    display: flex;
+    margin: 80px;
+    text-align: center;
+    gap: 30px;
+    justify-content: space-between;
+}
+
+.services li {
+    text-align: justify;
+}
+
+.our-services li {
+    padding-right: 50px;
 }
 
 footer {
