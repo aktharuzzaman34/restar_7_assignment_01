@@ -157,3 +157,35 @@ p {
 .flowers-catagory img {
     width: 20%;
 }
+
+/* input[type=text] {
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 50px;
+    border: solid 1px rgb(114, 113, 113);
+    border-radius: 8px;
+} */
+#updates {
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: 85%;
+    background-position: center;
+    /* margin-left: 130px; */
+    /* padding: 80px; */
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+
+
+.join-email {
+    text-align: center;
+}
+
+#name {
+    padding: 15px;
+    padding-left: 20px;
+    padding-right: 50px;
+    border: solid 1px rgb(114, 113, 113);
+    border-radius: 8px;
+}
