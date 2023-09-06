@@ -144,3 +144,16 @@ p {
     width: 20%;
     padding-right: 120px;
 }
+
+.flowers-catagory {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.flowers-catagory img {
+    width: 20%;
+}
